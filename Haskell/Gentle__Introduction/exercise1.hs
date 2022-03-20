@@ -1,0 +1,202 @@
+--GHCi, version 8.6.5: http://www.haskell.org/ghc/  :? for help
+-- Prelude> 34
+-- 34
+-- Prelude> :type 34
+-- 34 :: Num p => p
+-- Prelude> 3 + 4 * 5
+-- 23
+-- Prelude> (3+4)*5
+-- 35
+-- Prelude> it
+-- 35
+-- Prelude> 14/4
+-- 3.5
+-- Prelude> div 14 4
+-- 3
+-- Prelude> 14 `div` 4
+-- 3
+-- Prelude> mod 14 4
+-- 2
+-- Prelude> 2 == 2
+-- True
+-- Prelude> 2 === 2
+
+-- <interactive>:11:3: error:
+--     • Variable not in scope: (===) :: Integer -> Integer -> t
+--     • Perhaps you meant ‘==’ (imported from Prelude)
+-- Prelude> :type ==
+
+-- <interactive>:1:1: error: parse error on input ‘==’
+-- Prelude> 2 == 4
+-- False
+-- Prelude> 2<4
+-- True
+-- Prelude> :type 6.4
+-- 6.4 :: Fractional p => p
+-- Prelude> round 6.4
+-- 6
+-- Prelude> :type round e.6
+
+-- <interactive>:1:7: error: Variable not in scope: e :: Double
+-- Prelude> :type round 6.9
+-- round 6.9 :: Integral b => b
+-- Prelude> pi
+-- 3.141592653589793
+-- Prelude> sqrt 3
+-- 1.7320508075688772
+-- Prelude> :type True
+-- True :: Bool
+-- Prelude> :type 'a'
+-- 'a' :: Char
+-- Prelude> fromEnum 'a'
+-- 97
+-- Prelude> toEnum 98
+-- *** Exception: Prelude.Enum.().toEnum: bad argument
+-- Prelude> toEnum 98 :: Char
+-- 'b'
+-- Prelude> 
+-- Prelude> 5^3
+-- 125
+-- Prelude> 5**3
+-- 125.0
+-- Prelude> -34
+-- -34
+-- Prelude> negate 34
+-- -34
+-- Prelude> 5 * - 3
+
+-- <interactive>:32:1: error:
+--     Precedence parsing error
+--         cannot mix ‘*’ [infixl 7] and prefix `-' [infixl 6] in the same infix expression
+-- Prelude> 5 * -3
+
+-- <interactive>:33:1: error:
+--     Precedence parsing error
+--         cannot mix ‘*’ [infixl 7] and prefix `-' [infixl 6] in the same infix expression
+-- Prelude> 5 * (-3)
+-- -15
+-- Prelude> 4 + True
+
+-- <interactive>:35:1: error:
+--     • No instance for (Num Bool) arising from a use of ‘+’
+--     • In the expression: 4 + True
+--       In an equation for ‘it’: it = 4 + True
+-- Prelude> it
+-- -15
+-- Prelude> 0.5 * fromIntegral 3
+-- 1.5
+-- Prelude> 0.5 * 3
+-- 1.5
+-- Prelude> 5 /2
+-- 2.5
+-- Prelude> 5 `div` 2
+-- 2
+-- Prelude> round 5/2
+
+-- <interactive>:41:1: error:
+--     • Ambiguous type variable ‘a0’ arising from a use of ‘print’
+--       prevents the constraint ‘(Show a0)’ from being solved.
+--       Probable fix: use a type annotation to specify what ‘a0’ should be.
+--       These potential instances exist:
+--         instance Show Ordering -- Defined in ‘GHC.Show’
+--         instance Show Integer -- Defined in ‘GHC.Show’
+--         instance Show a => Show (Maybe a) -- Defined in ‘GHC.Show’
+--         ...plus 22 others
+--         ...plus 19 instances involving out-of-scope types
+--         (use -fprint-potential-instances to see them all)
+--     • In a stmt of an interactive GHCi command: print it
+-- Prelude> round (5/2)
+-- 2
+-- Prelude> let oneHalf = 0.5
+-- Prelude> let height = 10
+-- Prelude> let width = 4
+-- Prelude> let area = oneHalf * height * width
+-- Prelude> ara
+
+-- <interactive>:48:1: error:
+--     • Variable not in scope: ara
+--     • Perhaps you meant ‘area’ (line 47)
+-- Prelude> area
+-- 20.0
+-- Prelude> let radius = 8
+-- Prelude> let diameter = radius * 2
+-- Prelude> let circumference = diameter *pi
+-- Prelude> let area = pi * radius ^ 2
+-- Prelude> let volume = 4/3 * pi * radius ^ 3
+-- Prelude> diameter
+-- 16
+-- Prelude> radius
+-- 8
+-- Prelude> circumference 
+-- 50.26548245743669
+-- Prelude> a
+-- abs         acosh       and         appendFile  asTypeOf    asinh       atan2
+-- acos        all         any         area        asin        atan        atanh
+-- Prelude> area 
+-- 201.06192982974676
+-- Prelude> volume 
+-- 2144.660584850632
+-- Prelude> :type (+==)
+
+-- <interactive>:1:1: error:
+--     • Variable not in scope: +==
+--     • Perhaps you meant ‘==’ (imported from Prelude)
+-- Prelude> :type (==)
+-- (==) :: Eq a => a -> a -> Bool
+-- Prelude> :type (-)
+-- (-) :: Num a => a -> a -> a
+-- Prelude> :type odd
+-- odd :: Integral a => a -> Bool
+-- Prelude> 5 + 3
+-- 8
+-- Prelude> (+) 5 3
+-- 8
+-- Prelude> sqrt ( 3^2 + 4^2)
+-- 5.0
+-- Prelude> sqrt 3^2 + 4^2
+-- 19.0
+-- Prelude> :typesqrt
+-- unknown command ':typesqrt'
+-- use :? for help.
+-- Prelude> :type sqrt
+-- sqrt :: Floating a => a -> a
+-- Prelude> isLetter('K')
+
+-- <interactive>:70:1: error:
+--     Variable not in scope: isLetter :: Char -> t
+-- Prelude> import Data.char
+
+-- <interactive>:71:8: error: parse error on input ‘Data.char’
+-- Prelude> import Data.Char
+-- Prelude Data.Char> isLetter('K')
+-- True
+-- Prelude Data.Char> digitToInt('9)
+
+-- <interactive>:74:13: error: parse error on input ‘9’
+-- Prelude Data.Char> digitToInt('9')
+-- 9
+-- Prelude Data.Char> '9'
+-- '9'
+-- Prelude Data.Char> toLower('P')\
+
+-- <interactive>:77:14: error:
+--     parse error (possibly incorrect indentation or mismatched brackets)
+-- Prelude Data.Char> toLower('P')
+-- 'p'
+-- Prelude Data.Char> ord('9')
+-- 57
+-- Prelude Data.Char> chr(67)
+-- 'C'
+-- Prelude Data.Char> chr(57)
+-- '9'
+-- Prelude> hypotenuse a b = sqrt (a ^ 2 + b ^ 2)
+-- Prelude> hypotenuse 3 4
+-- 5.0
+-- Prelude> hypotenuse 9 16
+-- 18.35755975068582
+-- Prelude> hypotenuse 6 8
+-- 10.0
+-- Prelude> :type h
+-- head        hypotenuse
+-- Prelude> :type hypotenuse 
+-- hypotenuse :: Floating a => a -> a -> a

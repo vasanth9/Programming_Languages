@@ -1,0 +1,1 @@
+bouncy(height,index,count) = if count>0 then height+(height*index)+bouncy(height*index,index,count-1) else 0
