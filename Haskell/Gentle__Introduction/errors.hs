@@ -1,4 +1,3 @@
-import Basement.String (upper)
 fact 0 = 1
 fact n 
     | n<0 = error "Argument n must be >=0"
