@@ -1,5 +1,4 @@
 import Data.List ( sort )
-import Distribution.Simple.Utils (xargs)
 letsSort list = sort list
 
 insert item [] = [item]
