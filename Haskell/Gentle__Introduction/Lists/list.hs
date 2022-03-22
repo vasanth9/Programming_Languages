@@ -1,0 +1,16 @@
+-- Prelude> []
+-- []
+-- Prelude> [1,2,3,4]
+-- [1,2,3,4]
+-- Prelude> [1..4]
+-- [1,2,3,4]
+-- Prelude> let list=[1..9]
+-- Prelude> list
+-- [1,2,3,4,5,6,7,8,9]
+-- Prelude> null list
+-- False
+-- Prelude> head list
+-- 1
+-- Prelude> tail list
+-- [2,3,4,5,6,7,8,9]
+-- Prelude> 
