@@ -1,0 +1,30 @@
+-- Prelude> let firstName = "Vasanth Kumar"
+-- Prelude> let lastName = "Cheepurupalli"
+-- Prelude> firstName
+-- "Vasanth Kumar"
+-- Prelude> firstName !! 0
+-- 'V'
+-- Prelude> firstName < lastName
+-- False
+-- Prelude> firstName ++ lastName
+-- "Vasanth KumarCheepurupalli"
+-- Prelude> firstName ++ " " ++ lastName
+-- "Vasanth Kumar Cheepurupalli"
+-- Prelude> head firstName
+-- 'V'
+-- Prelude> "" == []
+-- True
+-- Prelude> "abc" == ['a','b','c']
+-- True
+-- Prelude> 'a':'b':'c':[]=="abc"
+-- True
+-- Prelude> 'a':'b':'c':[] == "abcd"
+-- False
+-- Prelude> import Data.String
+-- Prelude Data.String> let fullName = firstName ++ " " ++ lastName
+-- Prelude Data.String> words fullName
+-- ["Vasanth","Kumar","Cheepurupalli"]
+-- Prelude Data.String> 
+-- Prelude Data.String> unwords ["Vasanth","Kumar","Cheepurupalli"]
+-- "Vasanth Kumar Cheepurupalli"
+-- Prelude Data.String> 
