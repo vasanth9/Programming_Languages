@@ -1,6 +1,6 @@
 # Programming Languages
 
-* ALGOL
+* [ALGOL]()
 * APL
 * BQN
 * C#
