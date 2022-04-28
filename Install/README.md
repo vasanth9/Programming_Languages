@@ -21,7 +21,7 @@
 * [Java]
 * [JavaScript]
 * K
-* Kotlin
+* [Kotlin](https://linuxconfig.org/how-to-install-kotlin-on-ubuntu-20-04-focal-fossa-linux)
 * KRC
 * Lisp
 * Miranda
