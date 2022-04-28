@@ -1,6 +1,6 @@
 # Programming Languages
 
-* [ALGOL]()
+* [ALGOL](https://www.howtoinstall.me/ubuntu/18-04/algol68g/)
 * APL
 * BQN
 * C#
