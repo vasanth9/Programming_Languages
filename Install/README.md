@@ -8,7 +8,7 @@
 * [Clojure](https://ericnormand.me/guide/how-to-install-clojure#linux)
 * [C++](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)
 * [D](https://dlang.org/download.html)
-* Elixir
+* [Elixir](https://elixir-lang.org/install.html#gnulinux)
 * Elm
 * Erlang
 * F#
