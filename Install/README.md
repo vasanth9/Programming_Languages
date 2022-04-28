@@ -9,8 +9,8 @@
 * [C++](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)
 * [D](https://dlang.org/download.html)
 * [Elixir](https://elixir-lang.org/install.html#gnulinux)
-* Elm
-* Erlang
+* [Elm](https://github.com/elm/compiler/blob/master/installers/linux/README.md)
+* [Erlang](https://riptutorial.com/erlang/example/2791/build-and-install-erlang-otp-on-ubuntu)
 * F#
 * FL
 * FORTRAN
