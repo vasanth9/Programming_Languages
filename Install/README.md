@@ -11,9 +11,9 @@
 * [Elixir](https://elixir-lang.org/install.html#gnulinux)
 * [Elm](https://github.com/elm/compiler/blob/master/installers/linux/README.md)
 * [Erlang](https://riptutorial.com/erlang/example/2791/build-and-install-erlang-otp-on-ubuntu)
-* F#
+* [F#](https://www.digitalocean.com/community/tutorials/how-to-install-f-and-set-up-a-local-programming-environment-on-ubuntu-18-04)
 * FL
-* FORTRAN
+* [FORTRAN](https://askubuntu.com/questions/1214032/how-to-install-fortran-on-ubuntu)
 * FP
 * Haskell
 * IO
