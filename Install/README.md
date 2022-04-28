@@ -15,7 +15,7 @@
 * FL
 * [FORTRAN](https://askubuntu.com/questions/1214032/how-to-install-fortran-on-ubuntu)
 * FP
-* Haskell
+* [Haskell](https://riptutorial.com/haskell/example/898/hello--world-#:~:text=A%20basic%20%22Hello%2C%20World!,putStrLn%20%22Hello%2C%20World!%22)
 * IO
 * J
 * Java
