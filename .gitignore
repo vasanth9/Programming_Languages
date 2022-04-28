@@ -8,4 +8,5 @@
 *src
 *erLang.beam
 *.vscode
-*Java.class
+*.class
+*META-INF
