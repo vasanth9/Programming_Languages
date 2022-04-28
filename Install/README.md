@@ -3,7 +3,7 @@
 * [ALGOL](https://www.howtoinstall.me/ubuntu/18-04/algol68g/)
 * [APL](https://www.gnu.org/software/apl/)
 * BQN
-* C#
+* [C#](https://www.c-sharpcorner.com/blogs/running-c-sharp-code-into-ubuntu-os1)
 * C
 * Clojure
 * C++
