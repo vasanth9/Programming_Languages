@@ -6,7 +6,7 @@
 * [C#](https://www.c-sharpcorner.com/blogs/running-c-sharp-code-into-ubuntu-os1)
 * [C](https://linuxconfig.org/how-to-install-gcc-the-c-compiler-on-ubuntu-20-04-lts-focal-fossa-linux)
 * [Clojure](https://ericnormand.me/guide/how-to-install-clojure#linux)
-* C++
+* [C++](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)
 * D
 * Elixir
 * Elm
