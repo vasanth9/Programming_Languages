@@ -5,7 +5,7 @@
 * BQN
 * [C#](https://www.c-sharpcorner.com/blogs/running-c-sharp-code-into-ubuntu-os1)
 * [C](https://linuxconfig.org/how-to-install-gcc-the-c-compiler-on-ubuntu-20-04-lts-focal-fossa-linux)
-* Clojure
+* [Clojure](https://ericnormand.me/guide/how-to-install-clojure#linux)
 * C++
 * D
 * Elixir
