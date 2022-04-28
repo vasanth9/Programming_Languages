@@ -7,7 +7,7 @@
 * [C](https://linuxconfig.org/how-to-install-gcc-the-c-compiler-on-ubuntu-20-04-lts-focal-fossa-linux)
 * [Clojure](https://ericnormand.me/guide/how-to-install-clojure#linux)
 * [C++](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)
-* D
+* [D](https://dlang.org/download.html)
 * Elixir
 * Elm
 * Erlang

@@ -1,3 +1,5 @@
 /Resources
-*.exe
-*.out
+*CSharp.exe
+*a.out
+*D
+*D.o
