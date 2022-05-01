@@ -32,7 +32,7 @@
 * [Prolog](https://stackoverflow.com/questions/20447974/prolog-programming-in-ubuntu)
 * [Python](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
 * Q
-* Racket
+* [Racket](https://ostechnix.com/install-racket-programming-language-on-linux/)
 * Ruby
 * Rust
 * SASL
