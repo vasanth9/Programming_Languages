@@ -36,7 +36,7 @@
 * [Ruby](https://phoenixnap.com/kb/install-ruby-ubuntu)
 * [Rust](https://www.journaldev.com/39960/install-rust-on-ubuntu-linux)
 * SASL
-* Scala
+* [Scala](https://www.geeksforgeeks.org/how-to-install-scala-in-linux/)
 * Scheme
 * Self
 * Shakti
