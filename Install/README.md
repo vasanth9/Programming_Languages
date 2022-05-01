@@ -20,6 +20,7 @@
 * J
 * [Java](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04)
 * [JavaScript](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+* [Julia](https://www.cyberithub.com/how-to-install-julia-programming-language-on-ubuntu-20-04-lts/)
 * K
 * [Kotlin](https://linuxconfig.org/how-to-install-kotlin-on-ubuntu-20-04-focal-fossa-linux)
 * KRC
