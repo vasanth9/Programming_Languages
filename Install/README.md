@@ -29,7 +29,7 @@
 * [Objective-C](https://askubuntu.com/questions/328343/how-to-compile-build-and-run-objective-c-program-in-ubuntu-using-terminal)
 * [OCaml](https://www.cyberithub.com/how-to-install-ocaml-programming-language-on-ubuntu-20-04-lts/)
 * [Perl](https://linuxhint.com/how-to-create-and-run-a-perl-script-in-ubuntu-20-04-lts/)
-* Prolog
+* [Prolog](https://stackoverflow.com/questions/20447974/prolog-programming-in-ubuntu)
 * Python
 * Q
 * Racket
