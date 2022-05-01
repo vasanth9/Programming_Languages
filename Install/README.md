@@ -44,4 +44,4 @@
 * Smalltalk
 * Standard ML
 * Swift
-* TypeScript
+* [TypeScript](https://dev.to/quentindamianino/how-to-install-typescript-on-ubuntu-33am)
