@@ -10,3 +10,5 @@
 *.vscode
 *.class
 *META-INF
+*Obj
+*Obj.d

@@ -26,7 +26,7 @@
 * [Lisp](https://www.geeksforgeeks.org/how-to-install-lisp-on-linux/)
 * Miranda
 * ML
-* Objective-C 
+* [Objective-C](https://askubuntu.com/questions/328343/how-to-compile-build-and-run-objective-c-program-in-ubuntu-using-terminal)
 * OCaml
 * Perl
 * Prolog
