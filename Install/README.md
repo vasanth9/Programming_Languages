@@ -33,7 +33,7 @@
 * [Python](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
 * Q
 * [Racket](https://ostechnix.com/install-racket-programming-language-on-linux/)
-* Ruby
+* [Ruby](https://phoenixnap.com/kb/install-ruby-ubuntu)
 * Rust
 * SASL
 * Scala
