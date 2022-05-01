@@ -34,7 +34,7 @@
 * Q
 * [Racket](https://ostechnix.com/install-racket-programming-language-on-linux/)
 * [Ruby](https://phoenixnap.com/kb/install-ruby-ubuntu)
-* Rust
+* [Rust](https://www.journaldev.com/39960/install-rust-on-ubuntu-linux)
 * SASL
 * Scala
 * Scheme
