@@ -20,7 +20,7 @@ $ erLang:start().
 fsharpi FSharp.fsx
 #quit;;
 
-gfortran -ffree-form fortran.f
+gfortran -ffree-form Fortran.f
 ./a.out
 
 ghci
