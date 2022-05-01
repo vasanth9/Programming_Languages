@@ -37,7 +37,7 @@
 * [Rust](https://www.journaldev.com/39960/install-rust-on-ubuntu-linux)
 * SASL
 * [Scala](https://www.geeksforgeeks.org/how-to-install-scala-in-linux/)
-* Scheme
+* [Scheme](https://installati.one/ubuntu/20.04/mit-scheme/)
 * Self
 * Shakti
 * Simula
