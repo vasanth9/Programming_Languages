@@ -18,12 +18,12 @@
 * [Haskell](https://riptutorial.com/haskell/example/898/hello--world-#:~:text=A%20basic%20%22Hello%2C%20World!,putStrLn%20%22Hello%2C%20World!%22)
 * [IO](https://iolanguage.org/guide/guide.html#Introduction-Interactive-Mode)
 * J
-* [Java]
-* [JavaScript]
+* [Java](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04)
+* [JavaScript](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
 * K
 * [Kotlin](https://linuxconfig.org/how-to-install-kotlin-on-ubuntu-20-04-focal-fossa-linux)
 * KRC
-* Lisp
+* [Lisp](https://www.geeksforgeeks.org/how-to-install-lisp-on-linux/)
 * Miranda
 * ML
 * Objective-C 
