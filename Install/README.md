@@ -30,7 +30,7 @@
 * [OCaml](https://www.cyberithub.com/how-to-install-ocaml-programming-language-on-ubuntu-20-04-lts/)
 * [Perl](https://linuxhint.com/how-to-create-and-run-a-perl-script-in-ubuntu-20-04-lts/)
 * [Prolog](https://stackoverflow.com/questions/20447974/prolog-programming-in-ubuntu)
-* Python
+* [Python](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
 * Q
 * Racket
 * Ruby
