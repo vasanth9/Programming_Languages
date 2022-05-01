@@ -27,7 +27,7 @@
 * Miranda
 * ML
 * [Objective-C](https://askubuntu.com/questions/328343/how-to-compile-build-and-run-objective-c-program-in-ubuntu-using-terminal)
-* OCaml
+* [OCaml](https://www.cyberithub.com/how-to-install-ocaml-programming-language-on-ubuntu-20-04-lts/)
 * Perl
 * Prolog
 * Python
